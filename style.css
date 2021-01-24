@@ -1,0 +1,44 @@
+body {
+    position: fixed;
+}
+
+
+.cart {
+    cursor: pointer;
+    width: 5em;
+    height: auto;
+}
+
+table img {
+    width: 5em;
+    height: auto;
+}
+table {
+    border-collapse: collapse;
+}
+table td {
+    border-bottom: 1px solid #909090;
+    gap: 0em;
+}
+h2 {
+    font-size: 15pt;
+}
+h3 {
+    font-size: 10pt;
+    color: #404040;
+}
+p {
+    font-size: 10pt;
+}
+.btnedit {
+    background-color: #DBF3FA;
+}
+.btncheckout {
+    background-color: #7AD7F0;
+}
+
+.content {
+    overflow-y: scroll;
+    height: 24em;
+    border: solid 1px #909090;
+}
